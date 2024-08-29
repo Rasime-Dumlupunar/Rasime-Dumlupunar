@@ -1,4 +1,5 @@
-Merhaba 👋 Ben Rasime Dumlupunar!
+# Merhaba 👋 Ben Rasime Dumlupunar!
+
 🌍 Teknoloji dünyasında kapsamlı bir keşfe çıktım; Yazılım Mühendisliği eğitimi alırken sektörde profesyonel deneyim kazanmaktayım.
 
 🌱 React, JavaScript, TypeScript gibi ileri düzey teknolojilerde uzmanlaşırken, bilgi birikimimi sürekli olarak derinleştiriyorum.
@@ -9,7 +10,7 @@ Merhaba 👋 Ben Rasime Dumlupunar!
 
 📬 İletişim kurmak için: rasimedumlupunar@gmail.com
 
-### Teknoloji Yığınım
+### Kullandığım Teknolojiler
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
