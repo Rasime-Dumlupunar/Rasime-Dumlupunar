@@ -27,3 +27,5 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![F Klavye](https://img.shields.io/badge/F%20Klavye-%23007ACC.svg?style=for-the-badge&logo=keyboard&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
